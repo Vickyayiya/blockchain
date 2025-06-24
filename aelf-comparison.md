@@ -1,4 +1,4 @@
-## What's aelf's advantages when comparing with pther blockchains
+## What's aelf's advantages when compared with other blockchains
 
 | Metrics | Ethereum | Polygon | aelf | Avalanche | Solana | Sei |
 |---------------------------------|------------------|-----------------|-----------------|-----------------|-----------------|-----------------|
