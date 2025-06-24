@@ -4,7 +4,7 @@
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|
 | Tech Deep Dive about aelf | Industry Insight;<br>AI & Blockchain | Developer Focus content;<br>aelf advantages for devs | Web3 & AI Vision  | Tech Comparison or advantage description of aelf | Fun Fact about blockchain, crypto, and Web3 | Crypto Trends |
 
-1. For Tech deep dive about aelf, refer mainly to aelf AI 推文提示词 for info source
+1. For Tech deep dive about aelf, refer mainly to [aelf comparison file](https://github.com/Vickyayiya/blockchain/blob/main/aelf-comparison.md) for info source
 
 2. For industry insight, AI & blockchain, refer mainly to the media below for the latest news:
 https://cointelegraph.com/
@@ -21,7 +21,7 @@ Website: https://aelf.com/
  
 4. For Web3 & AI vision, refer mainly to the media and aelf's own docs provided above.
 
-5. For Tech comparison or advantages of aelf, refer mainly to aelf AI 推文提示词 and media/aelf's own docs provided above.
+5. For Tech comparison or advantages of aelf, refer mainly to [aelf comparison file](https://github.com/Vickyayiya/blockchain/blob/main/aelf-comparison.md) and media/aelf's own docs provided above.
 
 6. For fun facts about blockchain, crypto, and Web3, refer mainly to the media above, combined with aelf's own docs.
 
